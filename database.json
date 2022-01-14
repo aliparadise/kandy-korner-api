@@ -1,0 +1,50 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "skittles",
+            "price": 1.00,
+            "productTypeId": 1
+        },
+        {
+            "id": 2,
+            "name": "snickers",
+            "price": 1.50,
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "swedish fish",
+            "price": 3.00,
+            "productTypeId": 3
+        }
+    ],
+    "productsTypes": [
+        {
+            "id": 1,
+            "catagory": "hard candy"
+        },
+        {
+            "id": 2,
+            "catagory": "chocolates"
+        },
+        {
+            "id": 3,
+            "catagory": "gummies"
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "123 Sesame St",
+            "squarefootage": 5000,
+            "accessible": true
+        },
+        {
+            "id": 2,
+            "address": "500 Corner Lane",
+            "squarefootage": 3000,
+            "accessible": false
+        }
+    ]
+}
