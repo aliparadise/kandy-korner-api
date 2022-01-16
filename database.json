@@ -17,9 +17,39 @@
             "name": "swedish fish",
             "price": 3.00,
             "productTypeId": 3
+        },
+        {
+            "id": 4,
+            "name": "Milky Way",
+            "price": 1.00,
+            "productTypeId": 2
+        },
+        {
+            "id": 5,
+            "name": "Gummy Bears",
+            "price": 2.00,
+            "productTypeId": 3
+        },
+        {
+            "id": 6,
+            "name": "Lifesavers",
+            "price": 1.25,
+            "productTypeId": 1
+        },
+        {
+            "id": 7,
+            "name": "Hershey's Kisses",
+            "price": 1.00,
+            "productTypeId": 2
+        },
+        {
+            "id": 8,
+            "name": "lollipops",
+            "price": 2.00,
+            "productTypeId": 1
         }
     ],
-    "productsTypes": [
+    "productTypes": [
         {
             "id": 1,
             "catagory": "hard candy"
